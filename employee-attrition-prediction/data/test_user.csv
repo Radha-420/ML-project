@@ -1,0 +1,17 @@
+EmpID,Age,Salary,Department,JobRole,Experience,Overtime,JobSatisfaction,WorkLifeBalance,PerformanceRating,Attrition
+NTS001,28,55000,Engineering,Software Engineer,4,Yes,2,2,3,Yes
+NTS002,34,80000,Engineering,Senior Software Engineer,9,No,4,4,4,No
+NTS003,26,48000,QA,QA Engineer,3,Yes,2,2,3,Yes
+NTS004,39,95000,Engineering,Tech Lead,14,No,4,4,4,No
+NTS005,28,55000,Engineering,Software Engineer,4,Yes,2,2,3,Yes
+NTS006,34,80000,Engineering,Senior Software Engineer,9,No,4,4,4,No
+NTS007,26,48000,QA,QA Engineer,3,Yes,2,2,3,Yes
+NTS008,39,95000,Engineering,Tech Lead,14,No,4,4,4,No
+NTS009,28,55000,Engineering,Software Engineer,4,Yes,2,2,3,Yes
+NTS010,34,80000,Engineering,Senior Software Engineer,9,No,4,4,4,No
+NTS011,26,48000,QA,QA Engineer,3,Yes,2,2,3,Yes
+NTS012,39,95000,Engineering,Tech Lead,14,No,4,4,4,No
+NTS013,28,55000,Engineering,Software Engineer,4,Yes,2,2,3,Yes
+NTS014,34,80000,Engineering,Senior Software Engineer,9,No,4,4,4,No
+NTS015,26,48000,QA,QA Engineer,3,Yes,2,2,3,Yes
+NTS016,39,95000,Engineering,Tech Lead,14,No,4,4,4,No

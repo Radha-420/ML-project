@@ -1,0 +1,21 @@
+EmployeeID,EmployeeCode,EmployeeName,Age,Gender,Department,JobRole,JobLevel,MonthlyIncome,TotalWorkingYears,OverTime,JobSatisfaction,EnvironmentSatisfaction,RelationshipSatisfaction,WorkLifeBalance,JobInvolvement,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,NumCompaniesWorked,Attrition
+1,EMP001,Aarav Sharma,28,Male,Engineering,Software Engineer,L1,52000,4,Yes,2,2,3,2,3,2,1,2,1,2,No
+2,EMP002,Diya Reddy,32,Female,Engineering,Senior Software Engineer,L2,78000,8,No,4,3,4,3,4,5,4,3,3,5,No
+3,EMP003,Rahul Verma,25,Male,Engineering,Software Engineer,L1,46000,3,Yes,1,2,2,2,2,2,1,1,1,2,Yes
+4,EMP004,Ananya Rao,29,Female,Human Resources,HR Executive,L1,48000,5,No,4,3,4,4,3,3,2,3,2,3,No
+5,EMP005,Vikram Singh,41,Male,Sales,Sales Manager,L3,92000,15,No,4,4,4,3,4,8,5,4,5,8,No
+6,EMP006,Sneha Patel,27,Female,Finance,Financial Analyst,L1,55000,4,Yes,2,2,3,2,3,3,2,2,1,2,Yes
+7,EMP007,Kiran Kumar,35,Male,IT,System Administrator,L2,70000,11,No,3,3,3,4,3,6,4,3,4,6,No
+8,EMP008,Meera Nair,30,Female,Marketing,Marketing Specialist,L2,68000,7,Yes,2,3,2,3,2,4,3,2,2,3,Yes
+9,EMP009,Arjun Das,38,Male,Engineering,Tech Lead,L3,105000,14,No,4,4,4,4,4,7,5,4,5,7,No
+10,EMP010,Pooja Iyer,26,Female,Customer Support,Support Executive,L1,42000,2,No,3,3,3,4,3,2,2,3,1,2,No
+11,EMP011,Rohan Gupta,31,Male,Sales,Sales Executive,L1,50000,6,Yes,2,2,2,2,2,4,3,2,2,4,Yes
+12,EMP012,Ishita Menon,34,Female,Finance,Senior Financial Analyst,L2,82000,10,No,4,4,4,4,4,6,5,4,4,6,No
+13,EMP013,Nikhil Joshi,29,Male,IT,DevOps Engineer,L2,76000,7,Yes,2,3,3,2,2,4,3,2,2,3,Yes
+14,EMP014,Kavya Reddy,37,Female,Human Resources,HR Manager,L3,98000,13,No,4,4,4,4,4,7,5,4,5,7,No
+15,EMP015,Sanjay Rao,24,Male,Customer Support,Support Executive,L1,39000,1,Yes,1,2,2,2,2,1,1,2,1,1,Yes
+16,EMP016,Nandini Shah,33,Female,Marketing,Marketing Manager,L3,90000,9,No,4,4,3,4,4,5,4,4,4,5,No
+17,EMP017,Aditya Kulkarni,28,Male,Engineering,QA Engineer,L1,51000,5,No,3,3,3,3,3,3,2,3,2,3,No
+18,EMP018,Sahana Rao,27,Female,Sales,Sales Executive,L1,47000,3,Yes,2,2,2,2,2,2,2,2,1,2,Yes
+19,EMP019,Harish Babu,40,Male,IT,IT Manager,L3,110000,16,No,4,4,4,4,4,9,5,4,6,9,No
+20,EMP020,Lavanya Devi,36,Female,Engineering,Project Manager,L3,102000,12,No,4,3,4,4,4,6,5,4,5,6,No

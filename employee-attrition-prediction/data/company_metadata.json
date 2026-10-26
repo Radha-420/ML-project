@@ -1,0 +1,16 @@
+{
+    "company": "NovaTech Systems",
+    "dataset": "employees.csv",
+    "target": "Attrition",
+    "model": "Logistic Regression",
+    "trained_at": "23 Sep 2026",
+    "training_records": 20,
+    "metrics": {
+        "Model": "Logistic Regression",
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1": 1.0,
+        "ROC-AUC": 1.0
+    }
+}
